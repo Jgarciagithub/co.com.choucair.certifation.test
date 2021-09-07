@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-09-06T21:29:20" hostname="DESKTOP-5LK47ST" time="0.184">
+  <properties/>
+  <testcase name="Register in the page Utes" classname="Academy Choucair" time="0.184">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@596c2b82
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2596d9e0
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6f385e65
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Register in the page Utes:Given than brandon wants register in page web  Utes, When he complete the text boxs in the platform
+| name | lastname | Emailaddress | Month | Day | Year | CreatedPassword |
+| name | lastname | Emailaddress | Month | Day | Year | CreatedPassword |, Then he finds the button complete setup
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Register in the page Utes:Given than brandon wants register in page web  Utes, When he complete the text boxs in the platform
+| name | lastname | Emailaddress | Month | Day | Year | CreatedPassword |
+| name | lastname | Emailaddress | Month | Day | Year | CreatedPassword |, Then he finds the button complete setup]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Register in the page Utes:Given than brandon wants register in page web  Utes, When he complete the text boxs in the platform
+| name | lastname | Emailaddress | Month | Day | Year | CreatedPassword |
+| name | lastname | Emailaddress | Month | Day | Year | CreatedPassword |, Then he finds the button complete setup]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Register in the page Utes
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
